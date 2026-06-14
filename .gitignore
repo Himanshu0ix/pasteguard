@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+pasteguard_alerts.json
+tfvenv/
+venv/
