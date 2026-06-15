@@ -230,7 +230,7 @@ To build the advanced CNN model:
 ## Contributing
 
 Pull requests, bug reports, and feature ideas are welcome.  
-See **CONTRIBUTING.md** for guidelines.
+See [CONTRIBUTING.md](https://github.com/Himanshu0ix/pasteguard/blob/main/contribution.md) for guidelines.
 
 ---
 
