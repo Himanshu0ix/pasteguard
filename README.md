@@ -141,7 +141,7 @@ Both models were trained on a mix of legitimate administrative commands and real
 2. Open Command Prompt and run:
 
    ```cmd
-   git clone https://github.com/yourusername/pasteguard.git
+   git clone https://github.com/Himanshu0ix/pasteguard.git
    cd pasteguard
    pip install -r requirements.txt
    ```
