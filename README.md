@@ -2,6 +2,13 @@
 
 # PasteGuard – Clipboard Auditor for Dangerous Commands
 
+<div align="center">
+  <a href="https://youtu.be/DK3cyJJ4p_g">
+    <img src="https://img.youtube.com/vi/DK3cyJJ4p_g/maxresdefault.jpg" alt="Watch the Demo" width="600" />
+  </a>
+</div>
+
+---
 </div>
 
 **PasteGuard** is a real‑time security tool that watches your clipboard.  
